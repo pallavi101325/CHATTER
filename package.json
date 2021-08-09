@@ -1,0 +1,23 @@
+{
+  "name": "chatter",
+  "version": "1.0.0",
+  "description": "chat application with multiple rooms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pallavi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "jquery": "^3.6.0",
+    "nodemon": "^2.0.9",
+    "socket.io": "^4.1.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-env": "^2.4.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
